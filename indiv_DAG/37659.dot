@@ -1,0 +1,26 @@
+digraph tree{ 
+37659 [label="37659" fillcolor=red style=filled]
+25872 -> 37659
+25872 [label="25872"]
+36615 -> 25872
+36615 [label="triterpenoid"]
+26873 -> 36615
+26873 [label="terpenoid"]
+24913 -> 26873
+24913 [label="isoprenoid"]
+18059 -> 24913
+50860 -> 24913
+18059 [label="lipid"]
+50860 -> 18059
+50860 [label="organic molecular entity"]
+33582 -> 50860
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

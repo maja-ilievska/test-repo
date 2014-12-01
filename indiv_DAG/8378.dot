@@ -1,0 +1,99 @@
+digraph tree{ 
+8378 [label="prednisolone" fillcolor=red style=filled]
+24261 -> 8378
+47788 -> 8378
+35346 -> 8378
+35344 -> 8378
+35342 -> 8378
+36885 -> 8378
+24261 [label="24261"]
+36699 -> 24261
+47788 [label="3-oxo steroid"]
+35789 -> 47788
+35346 [label="35346"]
+36841 -> 35346
+35344 [label="35344"]
+35350 -> 35344
+35342 [label="35342"]
+36838 -> 35342
+36885 [label="36885"]
+35789 -> 36885
+36699 [label="corticosteroid hormone"]
+26764 -> 36699
+50858 -> 36699
+35789 [label="oxo steroid"]
+17087 -> 35789
+35341 -> 35789
+36841 [label="11-hydroxy steroid"]
+35350 -> 36841
+35350 [label="hydroxy steroid"]
+30879 -> 35350
+35341 -> 35350
+36838 [label="17-hydroxy steroid"]
+35350 -> 36838
+26764 [label="steroid hormone"]
+35341 -> 26764
+50858 [label="50858"]
+35341 -> 50858
+17087 [label="ketone"]
+36586 -> 17087
+35341 [label="steroid"]
+51958 -> 35341
+18059 -> 35341
+30879 [label="alcohol"]
+33822 -> 30879
+36586 [label="carbonyl compound"]
+36587 -> 36586
+36963 -> 36586
+51958 [label="organic polycyclic compound"]
+33832 -> 51958
+33635 -> 51958
+18059 [label="lipid"]
+50860 -> 18059
+33822 [label="organic hydroxy compound"]
+24651 -> 33822
+50860 -> 33822
+36587 [label="organic oxo compound"]
+50860 -> 36587
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+33832 [label="organic cyclic compound"]
+50860 -> 33832
+33635 [label="polycyclic compound"]
+33595 -> 33635
+50860 [label="organic molecular entity"]
+33582 -> 50860
+24651 [label="hydroxides"]
+25806 -> 24651
+33608 -> 24651
+37577 -> 24651
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+33595 [label="cyclic compound"]
+36357 -> 33595
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33608 [label="hydrogen molecular entity"]
+33674 -> 33608
+37577 [label="heteroatomic molecular entity"]
+36357 -> 37577
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+36357 [label="polyatomic entity"]
+23367 -> 36357
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33674 [label="33674"]
+33579 -> 33674
+23367 [label="molecular entity"]
+24431 -> 23367
+33579 [label="main group molecular entity"]
+23367 -> 33579
+24431 [label="24431"]
+}

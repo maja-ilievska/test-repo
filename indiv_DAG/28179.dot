@@ -1,0 +1,37 @@
+digraph tree{ 
+28179 [label="benzamide" fillcolor=red style=filled]
+62733 -> 28179
+22702 -> 28179
+62733 [label="62733"]
+33655 -> 62733
+32988 -> 62733
+22702 [label="22702"]
+22645 -> 22702
+33655 [label="aromatic compound"]
+33595 -> 33655
+32988 [label="amide"]
+51143 -> 32988
+22645 [label="arenecarboxamide"]
+29347 -> 22645
+33595 [label="cyclic compound"]
+36357 -> 33595
+51143 [label="nitrogen molecular entity"]
+33302 -> 51143
+29347 [label="29347"]
+37622 -> 29347
+36357 [label="polyatomic entity"]
+23367 -> 36357
+33302 [label="pnictogen molecular entity"]
+33675 -> 33302
+37622 [label="carboxamide"]
+33256 -> 37622
+23367 [label="molecular entity"]
+24431 -> 23367
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33256 [label="primary amide"]
+32988 -> 33256
+24431 [label="24431"]
+33579 [label="main group molecular entity"]
+23367 -> 33579
+}

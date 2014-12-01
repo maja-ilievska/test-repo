@@ -1,0 +1,81 @@
+digraph tree{ 
+28499 [label="kaempferol" fillcolor=red style=filled]
+28802 -> 28499
+38684 -> 28499
+28802 [label="28802"]
+47916 -> 28802
+38684 [label="38684"]
+24698 -> 38684
+47916 [label="flavonoid"]
+23232 -> 47916
+26004 -> 47916
+24698 [label="hydroxyflavone"]
+24043 -> 24698
+23232 [label="chromenes"]
+38443 -> 23232
+26004 [label="phenylpropanoid"]
+33659 -> 26004
+24043 [label="flavones"]
+23238 -> 24043
+47916 -> 24043
+38443 [label="1-benzopyran"]
+22727 -> 38443
+33659 [label="organic aromatic compound"]
+33832 -> 33659
+33655 -> 33659
+23238 [label="chromone"]
+38445 -> 23238
+22727 [label="benzopyran"]
+38104 -> 22727
+27171 -> 22727
+33832 [label="organic cyclic compound"]
+50860 -> 33832
+33655 [label="aromatic compound"]
+33595 -> 33655
+38445 [label="chromenone"]
+23232 -> 38445
+38104 [label="oxacycle"]
+24532 -> 38104
+36963 -> 38104
+27171 [label="organic heterobicyclic compound"]
+33672 -> 27171
+24532 -> 27171
+50860 [label="organic molecular entity"]
+33582 -> 50860
+33595 [label="cyclic compound"]
+36357 -> 33595
+24532 [label="organic heterocyclic compound"]
+33285 -> 24532
+33832 -> 24532
+5686 -> 24532
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+33672 [label="heterobicyclic compound"]
+33636 -> 33672
+5686 -> 33672
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+36357 [label="polyatomic entity"]
+23367 -> 36357
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+5686 [label="heterocyclic compound"]
+33595 -> 5686
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+33636 [label="bicyclic compound"]
+33595 -> 33636
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+23367 [label="molecular entity"]
+24431 -> 23367
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+33579 [label="main group molecular entity"]
+23367 -> 33579
+24431 [label="24431"]
+}

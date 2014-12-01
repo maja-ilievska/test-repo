@@ -1,0 +1,15 @@
+digraph tree{ 
+67410 [label="67410" fillcolor=red style=filled]
+50860 -> 67410
+50860 [label="organic molecular entity"]
+33582 -> 50860
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

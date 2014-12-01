@@ -1,0 +1,79 @@
+digraph tree{ 
+8600 [label="8600" fillcolor=red style=filled]
+38756 -> 8600
+38755 -> 8600
+38756 [label="38756"]
+38757 -> 38756
+38755 [label="38755"]
+38757 -> 38755
+38757 [label="isoflavones"]
+23238 -> 38757
+50753 -> 38757
+23238 [label="chromone"]
+38445 -> 23238
+50753 [label="isoflavonoid"]
+26004 -> 50753
+23232 -> 50753
+38445 [label="chromenone"]
+23232 -> 38445
+26004 [label="phenylpropanoid"]
+33659 -> 26004
+23232 [label="chromenes"]
+38443 -> 23232
+33659 [label="organic aromatic compound"]
+33832 -> 33659
+33655 -> 33659
+38443 [label="1-benzopyran"]
+22727 -> 38443
+33832 [label="organic cyclic compound"]
+50860 -> 33832
+33655 [label="aromatic compound"]
+33595 -> 33655
+22727 [label="benzopyran"]
+38104 -> 22727
+27171 -> 22727
+50860 [label="organic molecular entity"]
+33582 -> 50860
+33595 [label="cyclic compound"]
+36357 -> 33595
+38104 [label="oxacycle"]
+24532 -> 38104
+36963 -> 38104
+27171 [label="organic heterobicyclic compound"]
+33672 -> 27171
+24532 -> 27171
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+36357 [label="polyatomic entity"]
+23367 -> 36357
+24532 [label="organic heterocyclic compound"]
+33285 -> 24532
+33832 -> 24532
+5686 -> 24532
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+33672 [label="heterobicyclic compound"]
+33636 -> 33672
+5686 -> 33672
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+23367 [label="molecular entity"]
+24431 -> 23367
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+5686 [label="heterocyclic compound"]
+33595 -> 5686
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+33636 [label="bicyclic compound"]
+33595 -> 33636
+33579 [label="main group molecular entity"]
+23367 -> 33579
+24431 [label="24431"]
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+}

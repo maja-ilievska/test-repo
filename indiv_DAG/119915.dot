@@ -1,0 +1,76 @@
+digraph tree{ 
+119915 [label="119915" fillcolor=red style=filled]
+26151 -> 119915
+37622 -> 119915
+13248 -> 119915
+26151 [label="piperidines"]
+25693 -> 26151
+38101 -> 26151
+37622 [label="carboxamide"]
+33256 -> 37622
+13248 [label="13248"]
+22712 -> 13248
+32988 -> 13248
+25693 [label="organic heteromonocyclic compound"]
+33670 -> 25693
+24532 -> 25693
+38101 [label="38101"]
+24532 -> 38101
+35352 -> 38101
+33256 [label="primary amide"]
+32988 -> 33256
+22712 [label="benzenes"]
+33836 -> 22712
+32988 [label="amide"]
+51143 -> 32988
+33670 [label="heteromonocyclic compound"]
+5686 -> 33670
+33661 -> 33670
+24532 [label="organic heterocyclic compound"]
+33285 -> 24532
+33832 -> 24532
+5686 -> 24532
+35352 [label="organonitrogen compound"]
+51143 -> 35352
+33285 -> 35352
+33836 [label="benzenoid aromatic compound"]
+33659 -> 33836
+33598 -> 33836
+51143 [label="nitrogen molecular entity"]
+33302 -> 51143
+5686 [label="heterocyclic compound"]
+33595 -> 5686
+33661 [label="monocyclic compound"]
+33595 -> 33661
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33832 [label="organic cyclic compound"]
+50860 -> 33832
+33659 [label="organic aromatic compound"]
+33832 -> 33659
+33655 -> 33659
+33598 [label="carbocyclic compound"]
+33832 -> 33598
+33597 -> 33598
+33302 [label="pnictogen molecular entity"]
+33675 -> 33302
+33595 [label="cyclic compound"]
+36357 -> 33595
+50860 [label="organic molecular entity"]
+33582 -> 50860
+33655 [label="aromatic compound"]
+33595 -> 33655
+33597 [label="homocyclic compound"]
+33595 -> 33597
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+36357 [label="polyatomic entity"]
+23367 -> 36357
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

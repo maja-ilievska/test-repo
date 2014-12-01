@@ -1,0 +1,77 @@
+digraph tree{ 
+16458 [label="16458" fillcolor=red style=filled]
+37963 -> 16458
+18946 -> 16458
+37963 [label="37963"]
+26407 -> 37963
+3992 -> 37963
+18946 [label="18946"]
+25000 -> 18946
+26407 [label="pyrans"]
+25693 -> 26407
+38104 -> 26407
+3992 [label="cyclic ketone"]
+17087 -> 3992
+25000 [label="lactone"]
+33308 -> 25000
+35701 -> 25000
+38104 -> 25000
+25693 [label="organic heteromonocyclic compound"]
+33670 -> 25693
+24532 -> 25693
+38104 [label="oxacycle"]
+24532 -> 38104
+36963 -> 38104
+17087 [label="ketone"]
+36586 -> 17087
+33308 [label="33308"]
+36586 -> 33308
+35701 -> 33308
+35701 [label="ester"]
+50860 -> 35701
+33670 [label="heteromonocyclic compound"]
+5686 -> 33670
+33661 -> 33670
+24532 [label="organic heterocyclic compound"]
+33285 -> 24532
+33832 -> 24532
+5686 -> 24532
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+36586 [label="carbonyl compound"]
+36587 -> 36586
+36963 -> 36586
+50860 [label="organic molecular entity"]
+33582 -> 50860
+5686 [label="heterocyclic compound"]
+33595 -> 5686
+33661 [label="monocyclic compound"]
+33595 -> 33661
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33832 [label="organic cyclic compound"]
+50860 -> 33832
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+36587 [label="organic oxo compound"]
+50860 -> 36587
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33595 [label="cyclic compound"]
+36357 -> 33595
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+36357 [label="polyatomic entity"]
+23367 -> 36357
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

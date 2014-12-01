@@ -1,0 +1,34 @@
+digraph tree{ 
+29132 [label="29132" fillcolor=red style=filled]
+50193 -> 29132
+55378 -> 29132
+50193 [label="50193"]
+24783 -> 50193
+55378 [label="55378"]
+33272 -> 55378
+24783 [label="imine"]
+35352 -> 24783
+50860 -> 24783
+33272 [label="ketimine"]
+24783 -> 33272
+35352 [label="organonitrogen compound"]
+51143 -> 35352
+33285 -> 35352
+50860 [label="organic molecular entity"]
+33582 -> 50860
+51143 [label="nitrogen molecular entity"]
+33302 -> 51143
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33302 [label="pnictogen molecular entity"]
+33675 -> 33302
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

@@ -1,0 +1,13 @@
+digraph tree{ 
+50867 [label="50867" fillcolor=red style=filled]
+36820 -> 50867
+36820 [label="36820"]
+33595 -> 36820
+33595 [label="cyclic compound"]
+36357 -> 33595
+36357 [label="polyatomic entity"]
+23367 -> 36357
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

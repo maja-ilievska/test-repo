@@ -1,0 +1,42 @@
+digraph tree{ 
+4911 [label="etoposide" fillcolor=red style=filled]
+22798 -> 4911
+22798 [label="22798"]
+60980 -> 22798
+35436 -> 22798
+60980 [label="beta-glucoside"]
+24278 -> 60980
+35436 [label="D-glucoside"]
+24278 -> 35436
+24278 [label="24278"]
+35313 -> 24278
+35313 [label="hexoside"]
+24400 -> 35313
+24400 [label="glycoside"]
+63161 -> 24400
+63161 [label="glycosyl compound"]
+36963 -> 63161
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+50860 [label="organic molecular entity"]
+33582 -> 50860
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

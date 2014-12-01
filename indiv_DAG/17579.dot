@@ -1,0 +1,47 @@
+digraph tree{ 
+17579 [label="17579" fillcolor=red style=filled]
+35163 -> 17579
+35163 [label="35163"]
+23042 -> 35163
+23042 [label="carotene"]
+35193 -> 23042
+35193 [label="tetraterpene"]
+35186 -> 35193
+35186 [label="terpene"]
+24632 -> 35186
+24913 -> 35186
+24632 [label="hydrocarbon"]
+33245 -> 24632
+24913 [label="isoprenoid"]
+18059 -> 24913
+50860 -> 24913
+33245 [label="organic fundamental parent"]
+50860 -> 33245
+37175 -> 33245
+18059 [label="lipid"]
+50860 -> 18059
+50860 [label="organic molecular entity"]
+33582 -> 50860
+37175 [label="organic hydride"]
+33692 -> 37175
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33692 [label="hydrides"]
+33608 -> 33692
+37577 -> 33692
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33608 [label="hydrogen molecular entity"]
+33674 -> 33608
+37577 [label="heteroatomic molecular entity"]
+36357 -> 37577
+33579 [label="main group molecular entity"]
+23367 -> 33579
+33674 [label="33674"]
+33579 -> 33674
+36357 [label="polyatomic entity"]
+23367 -> 36357
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

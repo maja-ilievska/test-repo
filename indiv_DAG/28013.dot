@@ -1,0 +1,85 @@
+digraph tree{ 
+28013 [label="28013" fillcolor=red style=filled]
+37736 -> 28013
+37736 [label="37736"]
+16905 -> 37736
+16905 [label="D-fructose 1,6-bisphosphate"]
+24970 -> 16905
+24970 [label="ketohexose bisphosphate"]
+24972 -> 24970
+24972 [label="ketohexose phosphate"]
+35132 -> 24972
+47878 -> 24972
+35132 [label="35132"]
+33447 -> 35132
+47878 [label="hexose phosphate"]
+33447 -> 47878
+63385 -> 47878
+33447 [label="phospho sugar"]
+63367 -> 33447
+26816 -> 33447
+63385 [label="hexose derivative"]
+63367 -> 63385
+63367 [label="63367"]
+63299 -> 63367
+26816 [label="carbohydrate phosphate"]
+37734 -> 26816
+63299 -> 26816
+25703 -> 26816
+63299 [label="carbohydrate derivative"]
+36963 -> 63299
+37734 [label="phosphoric ester"]
+26079 -> 37734
+35701 -> 37734
+25703 [label="organic phosphate"]
+26079 -> 25703
+25710 -> 25703
+26020 -> 25703
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+26079 [label="phosphoric acid derivative"]
+36359 -> 26079
+35701 [label="ester"]
+50860 -> 35701
+25710 [label="organophosphorus compound"]
+33285 -> 25710
+26082 -> 25710
+26020 [label="phosphate"]
+26079 -> 26020
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+36359 [label="phosphorus oxoacid derivative"]
+33241 -> 36359
+36360 -> 36359
+50860 [label="organic molecular entity"]
+33582 -> 50860
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+26082 [label="phosphorus molecular entity"]
+33302 -> 26082
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+33241 [label="oxoacid derivative"]
+37577 -> 33241
+36360 [label="phosphorus oxoacids and derivatives"]
+26082 -> 36360
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33302 [label="pnictogen molecular entity"]
+33675 -> 33302
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+37577 [label="heteroatomic molecular entity"]
+36357 -> 37577
+33579 [label="main group molecular entity"]
+23367 -> 33579
+36357 [label="polyatomic entity"]
+23367 -> 36357
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

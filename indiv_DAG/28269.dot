@@ -1,0 +1,25 @@
+digraph tree{ 
+28269 [label="28269" fillcolor=red style=filled]
+26338 -> 28269
+26338 [label="26338"]
+26333 -> 26338
+26333 [label="prostaglandin"]
+26347 -> 26333
+26347 [label="26347"]
+23899 -> 26347
+23899 [label="icosanoid"]
+61697 -> 23899
+61697 [label="fatty acid derivative"]
+50860 -> 61697
+50860 [label="organic molecular entity"]
+33582 -> 50860
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

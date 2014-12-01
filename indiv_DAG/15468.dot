@@ -1,0 +1,183 @@
+digraph tree{ 
+15468 [label="15468" fillcolor=red style=filled]
+37096 -> 15468
+37096 [label="37096"]
+22256 -> 37096
+22256 [label="adenosine phosphate"]
+25608 -> 22256
+22260 -> 22256
+61296 -> 22256
+25608 [label="nucleoside phosphate"]
+25703 -> 25608
+37734 -> 25608
+61120 -> 25608
+22260 [label="22260"]
+26399 -> 22260
+61296 [label="adenyl ribonucleotide"]
+26400 -> 61296
+61293 -> 61296
+25703 [label="organic phosphate"]
+26079 -> 25703
+25710 -> 25703
+26020 -> 25703
+37734 [label="phosphoric ester"]
+26079 -> 37734
+35701 -> 37734
+61120 [label="nucleobase-containing molecular entity"]
+33833 -> 61120
+51143 -> 61120
+26399 [label="purine ribonucleoside"]
+26394 -> 26399
+18254 -> 26399
+26400 [label="purine ribonucleotide"]
+26395 -> 26400
+26561 -> 26400
+61293 [label="adenyl nucleotide"]
+26395 -> 61293
+26079 [label="phosphoric acid derivative"]
+36359 -> 26079
+25710 [label="organophosphorus compound"]
+33285 -> 25710
+26082 -> 25710
+26020 [label="phosphate"]
+26079 -> 26020
+35701 [label="ester"]
+50860 -> 35701
+33833 [label="heteroarene"]
+33659 -> 33833
+24532 -> 33833
+51143 [label="nitrogen molecular entity"]
+33302 -> 51143
+26394 [label="purine nucleoside"]
+26401 -> 26394
+33838 -> 26394
+18254 [label="ribonucleoside"]
+47019 -> 18254
+33838 -> 18254
+26395 [label="purine nucleotide"]
+36976 -> 26395
+26401 -> 26395
+26561 [label="ribonucleotide"]
+36976 -> 26561
+26562 -> 26561
+36359 [label="phosphorus oxoacid derivative"]
+33241 -> 36359
+36360 -> 36359
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+26082 [label="phosphorus molecular entity"]
+33302 -> 26082
+50860 [label="organic molecular entity"]
+33582 -> 50860
+33659 [label="organic aromatic compound"]
+33832 -> 33659
+33655 -> 33659
+24532 [label="organic heterocyclic compound"]
+33285 -> 24532
+33832 -> 24532
+5686 -> 24532
+33302 [label="pnictogen molecular entity"]
+33675 -> 33302
+26401 [label="purines"]
+35875 -> 26401
+33838 [label="nucleoside"]
+21731 -> 33838
+26912 -> 33838
+61120 -> 33838
+47019 [label="dihydroxytetrahydrofuran"]
+47017 -> 47019
+36976 [label="nucleotide"]
+25608 -> 36976
+26562 [label="ribose phosphate"]
+25900 -> 26562
+33241 [label="oxoacid derivative"]
+37577 -> 33241
+36360 [label="phosphorus oxoacids and derivatives"]
+26082 -> 36360
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33832 [label="organic cyclic compound"]
+50860 -> 33832
+33655 [label="aromatic compound"]
+33595 -> 33655
+5686 [label="heterocyclic compound"]
+33595 -> 5686
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+35875 [label="imidazopyrimidine"]
+27171 -> 35875
+38101 -> 35875
+33833 -> 35875
+21731 [label="N-glycosyl compound"]
+35352 -> 21731
+63161 -> 21731
+63299 -> 21731
+26912 [label="oxolanes"]
+25693 -> 26912
+38104 -> 26912
+47017 [label="47017"]
+26912 -> 47017
+25900 [label="aldopentose phosphate"]
+35131 -> 25900
+37577 [label="heteroatomic molecular entity"]
+36357 -> 37577
+33595 [label="cyclic compound"]
+36357 -> 33595
+33579 [label="main group molecular entity"]
+23367 -> 33579
+27171 [label="organic heterobicyclic compound"]
+33672 -> 27171
+24532 -> 27171
+38101 [label="38101"]
+24532 -> 38101
+35352 -> 38101
+35352 [label="organonitrogen compound"]
+51143 -> 35352
+33285 -> 35352
+63161 [label="glycosyl compound"]
+36963 -> 63161
+63299 [label="carbohydrate derivative"]
+36963 -> 63299
+25693 [label="organic heteromonocyclic compound"]
+33670 -> 25693
+24532 -> 25693
+38104 [label="oxacycle"]
+24532 -> 38104
+36963 -> 38104
+35131 [label="aldose phosphate"]
+33447 -> 35131
+36357 [label="polyatomic entity"]
+23367 -> 36357
+23367 [label="molecular entity"]
+24431 -> 23367
+33672 [label="heterobicyclic compound"]
+33636 -> 33672
+5686 -> 33672
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+33670 [label="heteromonocyclic compound"]
+5686 -> 33670
+33661 -> 33670
+33447 [label="phospho sugar"]
+63367 -> 33447
+26816 -> 33447
+24431 [label="24431"]
+33636 [label="bicyclic compound"]
+33595 -> 33636
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+33661 [label="monocyclic compound"]
+33595 -> 33661
+63367 [label="63367"]
+63299 -> 63367
+26816 [label="carbohydrate phosphate"]
+37734 -> 26816
+63299 -> 26816
+25703 -> 26816
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+}

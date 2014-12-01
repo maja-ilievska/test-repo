@@ -1,0 +1,46 @@
+digraph tree{ 
+58972 [label="58972" fillcolor=red style=filled]
+51688 -> 58972
+51689 -> 58972
+51688 [label="51688"]
+51718 -> 51688
+17478 -> 51688
+51689 [label="enone"]
+51721 -> 51689
+51718 [label="alpha,beta-unsaturated aldehyde"]
+17478 -> 51718
+17478 [label="aldehyde"]
+36586 -> 17478
+51721 [label="alpha,beta-unsaturated ketone"]
+17087 -> 51721
+36586 [label="carbonyl compound"]
+36587 -> 36586
+36963 -> 36586
+17087 [label="ketone"]
+36586 -> 17087
+36587 [label="organic oxo compound"]
+50860 -> 36587
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+50860 [label="organic molecular entity"]
+33582 -> 50860
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

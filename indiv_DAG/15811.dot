@@ -1,0 +1,106 @@
+digraph tree{ 
+15811 [label="15811" fillcolor=red style=filled]
+37712 -> 15811
+37712 [label="37712"]
+21968 -> 37712
+26649 -> 37712
+21968 [label="O-phosphoamino acid"]
+25703 -> 21968
+37734 -> 21968
+26051 -> 21968
+26649 [label="serine derivative"]
+25359 -> 26649
+25703 [label="organic phosphate"]
+26079 -> 25703
+25710 -> 25703
+26020 -> 25703
+37734 [label="phosphoric ester"]
+26079 -> 37734
+35701 -> 37734
+26051 [label="phosphoamino acid"]
+25359 -> 26051
+25359 [label="modified amino acid"]
+33709 -> 25359
+26079 [label="phosphoric acid derivative"]
+36359 -> 26079
+25710 [label="organophosphorus compound"]
+33285 -> 25710
+26082 -> 25710
+26020 [label="phosphate"]
+26079 -> 26020
+35701 [label="ester"]
+50860 -> 35701
+33709 [label="amino acid"]
+50047 -> 33709
+33575 -> 33709
+36359 [label="phosphorus oxoacid derivative"]
+33241 -> 36359
+36360 -> 36359
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+26082 [label="phosphorus molecular entity"]
+33302 -> 26082
+50860 [label="organic molecular entity"]
+33582 -> 50860
+50047 [label="organic amino compound"]
+50860 -> 50047
+35352 -> 50047
+33575 [label="carboxylic acid"]
+36586 -> 33575
+35605 -> 33575
+64709 -> 33575
+33241 [label="oxoacid derivative"]
+37577 -> 33241
+36360 [label="phosphorus oxoacids and derivatives"]
+26082 -> 36360
+33302 [label="pnictogen molecular entity"]
+33675 -> 33302
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+35352 [label="organonitrogen compound"]
+51143 -> 35352
+33285 -> 35352
+36586 [label="carbonyl compound"]
+36587 -> 36586
+36963 -> 36586
+35605 [label="carbon oxoacid"]
+24833 -> 35605
+36963 -> 35605
+64709 [label="organic acid"]
+50860 -> 64709
+37577 [label="heteroatomic molecular entity"]
+36357 -> 37577
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+51143 [label="nitrogen molecular entity"]
+33302 -> 51143
+36587 [label="organic oxo compound"]
+50860 -> 36587
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+24833 [label="oxoacid"]
+24651 -> 24833
+36357 [label="polyatomic entity"]
+23367 -> 36357
+33579 [label="main group molecular entity"]
+23367 -> 33579
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+24651 [label="hydroxides"]
+25806 -> 24651
+33608 -> 24651
+37577 -> 24651
+23367 [label="molecular entity"]
+24431 -> 23367
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+33608 [label="hydrogen molecular entity"]
+33674 -> 33608
+24431 [label="24431"]
+33674 [label="33674"]
+33579 -> 33674
+}

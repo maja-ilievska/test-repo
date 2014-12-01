@@ -1,0 +1,62 @@
+digraph tree{ 
+17553 [label="17553" fillcolor=red style=filled]
+36711 -> 17553
+50994 -> 17553
+36711 [label="36711"]
+25703 -> 36711
+37734 -> 36711
+50994 [label="primary amino compound"]
+50047 -> 50994
+25703 [label="organic phosphate"]
+26079 -> 25703
+25710 -> 25703
+26020 -> 25703
+37734 [label="phosphoric ester"]
+26079 -> 37734
+35701 -> 37734
+50047 [label="organic amino compound"]
+50860 -> 50047
+35352 -> 50047
+26079 [label="phosphoric acid derivative"]
+36359 -> 26079
+25710 [label="organophosphorus compound"]
+33285 -> 25710
+26082 -> 25710
+26020 [label="phosphate"]
+26079 -> 26020
+35701 [label="ester"]
+50860 -> 35701
+50860 [label="organic molecular entity"]
+33582 -> 50860
+35352 [label="organonitrogen compound"]
+51143 -> 35352
+33285 -> 35352
+36359 [label="phosphorus oxoacid derivative"]
+33241 -> 36359
+36360 -> 36359
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+26082 [label="phosphorus molecular entity"]
+33302 -> 26082
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+51143 [label="nitrogen molecular entity"]
+33302 -> 51143
+33241 [label="oxoacid derivative"]
+37577 -> 33241
+36360 [label="phosphorus oxoacids and derivatives"]
+26082 -> 36360
+33302 [label="pnictogen molecular entity"]
+33675 -> 33302
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+37577 [label="heteroatomic molecular entity"]
+36357 -> 37577
+33579 [label="main group molecular entity"]
+23367 -> 33579
+36357 [label="polyatomic entity"]
+23367 -> 36357
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

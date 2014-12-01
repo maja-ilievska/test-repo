@@ -1,0 +1,61 @@
+digraph tree{ 
+45285 [label="45285" fillcolor=red style=filled]
+38314 -> 45285
+29347 -> 45285
+38314 [label="38314"]
+38313 -> 38314
+29347 [label="29347"]
+37622 -> 29347
+38313 [label="diazines"]
+25693 -> 38313
+38101 -> 38313
+37622 [label="carboxamide"]
+33256 -> 37622
+25693 [label="organic heteromonocyclic compound"]
+33670 -> 25693
+24532 -> 25693
+38101 [label="38101"]
+24532 -> 38101
+35352 -> 38101
+33256 [label="primary amide"]
+32988 -> 33256
+33670 [label="heteromonocyclic compound"]
+5686 -> 33670
+33661 -> 33670
+24532 [label="organic heterocyclic compound"]
+33285 -> 24532
+33832 -> 24532
+5686 -> 24532
+35352 [label="organonitrogen compound"]
+51143 -> 35352
+33285 -> 35352
+32988 [label="amide"]
+51143 -> 32988
+5686 [label="heterocyclic compound"]
+33595 -> 5686
+33661 [label="monocyclic compound"]
+33595 -> 33661
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33832 [label="organic cyclic compound"]
+50860 -> 33832
+51143 [label="nitrogen molecular entity"]
+33302 -> 51143
+33595 [label="cyclic compound"]
+36357 -> 33595
+50860 [label="organic molecular entity"]
+33582 -> 50860
+33302 [label="pnictogen molecular entity"]
+33675 -> 33302
+36357 [label="polyatomic entity"]
+23367 -> 36357
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+23367 [label="molecular entity"]
+24431 -> 23367
+33579 [label="main group molecular entity"]
+23367 -> 33579
+24431 [label="24431"]
+}

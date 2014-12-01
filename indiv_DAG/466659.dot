@@ -1,0 +1,46 @@
+digraph tree{ 
+466659 [label="466659" fillcolor=red style=filled]
+59389 -> 466659
+59389 [label="59389"]
+31998 -> 59389
+31998 [label="phytoceramide"]
+17761 -> 31998
+17761 [label="ceramide"]
+26739 -> 17761
+26739 [label="sphingolipid"]
+36963 -> 26739
+35352 -> 26739
+18059 -> 26739
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+35352 [label="organonitrogen compound"]
+51143 -> 35352
+33285 -> 35352
+18059 [label="lipid"]
+50860 -> 18059
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+51143 [label="nitrogen molecular entity"]
+33302 -> 51143
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+50860 [label="organic molecular entity"]
+33582 -> 50860
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+33302 [label="pnictogen molecular entity"]
+33675 -> 33302
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

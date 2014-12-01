@@ -1,0 +1,47 @@
+digraph tree{ 
+17254 [label="17254" fillcolor=red style=filled]
+25289 -> 17254
+25289 [label="25289"]
+33566 -> 25289
+33566 [label="33566"]
+33570 -> 33566
+33570 [label="benzenediols"]
+33853 -> 33570
+22625 -> 33570
+33853 [label="33853"]
+33822 -> 33853
+22625 [label="aromatic diol"]
+23824 -> 22625
+33822 [label="organic hydroxy compound"]
+24651 -> 33822
+50860 -> 33822
+23824 [label="diol"]
+33822 -> 23824
+24651 [label="hydroxides"]
+25806 -> 24651
+33608 -> 24651
+37577 -> 24651
+50860 [label="organic molecular entity"]
+33582 -> 50860
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+33608 [label="hydrogen molecular entity"]
+33674 -> 33608
+37577 [label="heteroatomic molecular entity"]
+36357 -> 37577
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+33674 [label="33674"]
+33579 -> 33674
+36357 [label="polyatomic entity"]
+23367 -> 36357
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

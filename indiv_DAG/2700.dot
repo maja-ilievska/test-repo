@@ -1,0 +1,68 @@
+digraph tree{ 
+2700 [label="2700" fillcolor=red style=filled]
+15897 -> 2700
+67197 -> 2700
+15897 [label="15897"]
+52640 -> 15897
+67197 [label="67197"]
+67194 -> 67197
+52640 [label="N-acylethanolamine"]
+23981 -> 52640
+67194 [label="cannabinoid"]
+36963 -> 67194
+23981 [label="23981"]
+22478 -> 23981
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+22478 [label="amino alcohol"]
+50047 -> 22478
+30879 -> 22478
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+50047 [label="organic amino compound"]
+50860 -> 50047
+35352 -> 50047
+30879 [label="alcohol"]
+33822 -> 30879
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+50860 [label="organic molecular entity"]
+33582 -> 50860
+35352 [label="organonitrogen compound"]
+51143 -> 35352
+33285 -> 35352
+33822 [label="organic hydroxy compound"]
+24651 -> 33822
+50860 -> 33822
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+51143 [label="nitrogen molecular entity"]
+33302 -> 51143
+24651 [label="hydroxides"]
+25806 -> 24651
+33608 -> 24651
+37577 -> 24651
+33579 [label="main group molecular entity"]
+23367 -> 33579
+33302 [label="pnictogen molecular entity"]
+33675 -> 33302
+33608 [label="hydrogen molecular entity"]
+33674 -> 33608
+37577 [label="heteroatomic molecular entity"]
+36357 -> 37577
+23367 [label="molecular entity"]
+24431 -> 23367
+33674 [label="33674"]
+33579 -> 33674
+36357 [label="polyatomic entity"]
+23367 -> 36357
+24431 [label="24431"]
+}

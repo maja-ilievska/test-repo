@@ -1,0 +1,42 @@
+digraph tree{ 
+15746 [label="spermine" fillcolor=red style=filled]
+39474 -> 15746
+39166 -> 15746
+39474 [label="39474"]
+51349 -> 39474
+46686 -> 39474
+39166 [label="39166"]
+50047 -> 39166
+51349 [label="polyamine macromolecule"]
+33839 -> 51349
+50047 -> 51349
+46686 [label="azaalkane"]
+35352 -> 46686
+50047 [label="organic amino compound"]
+50860 -> 50047
+35352 -> 50047
+33839 [label="macromolecule"]
+36357 -> 33839
+35352 [label="organonitrogen compound"]
+51143 -> 35352
+33285 -> 35352
+50860 [label="organic molecular entity"]
+33582 -> 50860
+36357 [label="polyatomic entity"]
+23367 -> 36357
+51143 [label="nitrogen molecular entity"]
+33302 -> 51143
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+23367 [label="molecular entity"]
+24431 -> 23367
+33302 [label="pnictogen molecular entity"]
+33675 -> 33302
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+24431 [label="24431"]
+33579 [label="main group molecular entity"]
+23367 -> 33579
+}

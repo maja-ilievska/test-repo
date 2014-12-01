@@ -1,0 +1,56 @@
+digraph tree{ 
+16619 [label="16619" fillcolor=red style=filled]
+28600 -> 16619
+28600 [label="28600"]
+36757 -> 28600
+15734 -> 28600
+26244 -> 28600
+36757 [label="farnesane sesquiterpenoid"]
+26658 -> 36757
+15734 [label="15734"]
+30879 -> 15734
+26244 [label="prenols"]
+30879 -> 26244
+24913 -> 26244
+26658 [label="sesquiterpenoid"]
+26873 -> 26658
+30879 [label="alcohol"]
+33822 -> 30879
+24913 [label="isoprenoid"]
+18059 -> 24913
+50860 -> 24913
+26873 [label="terpenoid"]
+24913 -> 26873
+33822 [label="organic hydroxy compound"]
+24651 -> 33822
+50860 -> 33822
+18059 [label="lipid"]
+50860 -> 18059
+50860 [label="organic molecular entity"]
+33582 -> 50860
+24651 [label="hydroxides"]
+25806 -> 24651
+33608 -> 24651
+37577 -> 24651
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+33608 [label="hydrogen molecular entity"]
+33674 -> 33608
+37577 [label="heteroatomic molecular entity"]
+36357 -> 37577
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+33674 [label="33674"]
+33579 -> 33674
+36357 [label="polyatomic entity"]
+23367 -> 36357
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

@@ -1,0 +1,17 @@
+digraph tree{ 
+61512 [label="61512" fillcolor=red style=filled]
+35238 -> 61512
+35238 [label="35238"]
+27369 -> 35238
+27369 [label="zwitterion"]
+51151 -> 27369
+51151 [label="dipolar compound"]
+25367 -> 51151
+25367 [label="molecule"]
+36357 -> 25367
+36357 [label="polyatomic entity"]
+23367 -> 36357
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

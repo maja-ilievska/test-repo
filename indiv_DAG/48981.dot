@@ -1,0 +1,43 @@
+digraph tree{ 
+48981 [label="48981" fillcolor=red style=filled]
+38775 -> 48981
+38775 [label="38775"]
+38774 -> 38775
+38774 [label="hydroxyquinoline"]
+26513 -> 38774
+26513 [label="quinolines"]
+27171 -> 26513
+27171 [label="organic heterobicyclic compound"]
+33672 -> 27171
+24532 -> 27171
+33672 [label="heterobicyclic compound"]
+33636 -> 33672
+5686 -> 33672
+24532 [label="organic heterocyclic compound"]
+33285 -> 24532
+33832 -> 24532
+5686 -> 24532
+33636 [label="bicyclic compound"]
+33595 -> 33636
+5686 [label="heterocyclic compound"]
+33595 -> 5686
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33832 [label="organic cyclic compound"]
+50860 -> 33832
+33595 [label="cyclic compound"]
+36357 -> 33595
+50860 [label="organic molecular entity"]
+33582 -> 50860
+36357 [label="polyatomic entity"]
+23367 -> 36357
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+23367 [label="molecular entity"]
+24431 -> 23367
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+24431 [label="24431"]
+33579 [label="main group molecular entity"]
+23367 -> 33579
+}

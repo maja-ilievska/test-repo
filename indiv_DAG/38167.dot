@@ -1,0 +1,85 @@
+digraph tree{ 
+38167 [label="38167" fillcolor=red style=filled]
+22580 -> 38167
+22580 [label="22580"]
+46955 -> 22580
+51285 -> 22580
+46955 [label="anthracenes"]
+38032 -> 46955
+51269 -> 46955
+51285 [label="acenoquinone"]
+51269 -> 51285
+36141 -> 51285
+38032 [label="38032"]
+35294 -> 38032
+51959 -> 38032
+51269 [label="acenes"]
+33836 -> 51269
+36141 [label="36141"]
+50860 -> 36141
+3992 -> 36141
+35294 [label="carbopolycyclic compound"]
+33598 -> 35294
+35295 -> 35294
+51959 [label="organic tricyclic compound"]
+51958 -> 51959
+33836 [label="benzenoid aromatic compound"]
+33659 -> 33836
+33598 -> 33836
+50860 [label="organic molecular entity"]
+33582 -> 50860
+3992 [label="cyclic ketone"]
+17087 -> 3992
+33598 [label="carbocyclic compound"]
+33832 -> 33598
+33597 -> 33598
+35295 [label="homopolycyclic compound"]
+33635 -> 35295
+33597 -> 35295
+51958 [label="organic polycyclic compound"]
+33832 -> 51958
+33635 -> 51958
+33659 [label="organic aromatic compound"]
+33832 -> 33659
+33655 -> 33659
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+17087 [label="ketone"]
+36586 -> 17087
+33832 [label="organic cyclic compound"]
+50860 -> 33832
+33597 [label="homocyclic compound"]
+33595 -> 33597
+33635 [label="polycyclic compound"]
+33595 -> 33635
+33655 [label="aromatic compound"]
+33595 -> 33655
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+36586 [label="carbonyl compound"]
+36587 -> 36586
+36963 -> 36586
+33595 [label="cyclic compound"]
+36357 -> 33595
+33579 [label="main group molecular entity"]
+23367 -> 33579
+36587 [label="organic oxo compound"]
+50860 -> 36587
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+36357 [label="polyatomic entity"]
+23367 -> 36357
+23367 [label="molecular entity"]
+24431 -> 23367
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+24431 [label="24431"]
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+}

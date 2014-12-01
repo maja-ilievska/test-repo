@@ -1,0 +1,58 @@
+digraph tree{ 
+9985 [label="9985" fillcolor=red style=filled]
+27288 -> 9985
+38481 -> 9985
+27288 [label="27288"]
+65323 -> 27288
+38481 [label="38481"]
+33308 -> 38481
+22315 -> 38481
+65323 [label="monoterpenoid indole alkaloid"]
+65321 -> 65323
+33308 [label="33308"]
+36586 -> 33308
+35701 -> 33308
+22315 [label="alkaloid"]
+35352 -> 22315
+65321 [label="terpenoid indole alkaloid"]
+38958 -> 65321
+36586 [label="carbonyl compound"]
+36587 -> 36586
+36963 -> 36586
+35701 [label="ester"]
+50860 -> 35701
+35352 [label="organonitrogen compound"]
+51143 -> 35352
+33285 -> 35352
+38958 [label="38958"]
+22315 -> 38958
+36587 [label="organic oxo compound"]
+50860 -> 36587
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+50860 [label="organic molecular entity"]
+33582 -> 50860
+51143 [label="nitrogen molecular entity"]
+33302 -> 51143
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33302 [label="pnictogen molecular entity"]
+33675 -> 33302
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

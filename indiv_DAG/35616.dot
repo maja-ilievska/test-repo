@@ -1,0 +1,19 @@
+digraph tree{ 
+35616 [label="35616" fillcolor=red style=filled]
+35618 -> 35616
+35618 [label="aromatic ether"]
+25698 -> 35618
+25698 [label="ether"]
+50860 -> 25698
+50860 [label="organic molecular entity"]
+33582 -> 50860
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

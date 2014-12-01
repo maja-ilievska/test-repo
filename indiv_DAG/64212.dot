@@ -1,0 +1,29 @@
+digraph tree{ 
+64212 [label="sulindac sulfone" fillcolor=red style=filled]
+35850 -> 64212
+35850 [label="35850"]
+33261 -> 35850
+33261 [label="organosulfur compound"]
+36962 -> 33261
+26835 -> 33261
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+26835 [label="sulfur molecular entity"]
+33304 -> 26835
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+50860 [label="organic molecular entity"]
+33582 -> 50860
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

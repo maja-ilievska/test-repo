@@ -1,0 +1,88 @@
+digraph tree{ 
+30200 [label="30200" fillcolor=red style=filled]
+63367 -> 30200
+64634 -> 30200
+63367 [label="63367"]
+63299 -> 63367
+64634 [label="64634"]
+50018 -> 64634
+63299 [label="carbohydrate derivative"]
+36963 -> 63299
+50018 [label="50018"]
+24043 -> 50018
+24400 -> 50018
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+24043 [label="flavones"]
+23238 -> 24043
+47916 -> 24043
+24400 [label="glycoside"]
+63161 -> 24400
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+23238 [label="chromone"]
+38445 -> 23238
+47916 [label="flavonoid"]
+23232 -> 47916
+26004 -> 47916
+63161 [label="glycosyl compound"]
+36963 -> 63161
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+38445 [label="chromenone"]
+23232 -> 38445
+23232 [label="chromenes"]
+38443 -> 23232
+26004 [label="phenylpropanoid"]
+33659 -> 26004
+50860 [label="organic molecular entity"]
+33582 -> 50860
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+38443 [label="1-benzopyran"]
+22727 -> 38443
+33659 [label="organic aromatic compound"]
+33832 -> 33659
+33655 -> 33659
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33579 [label="main group molecular entity"]
+23367 -> 33579
+22727 [label="benzopyran"]
+38104 -> 22727
+27171 -> 22727
+33832 [label="organic cyclic compound"]
+50860 -> 33832
+33655 [label="aromatic compound"]
+33595 -> 33655
+23367 [label="molecular entity"]
+24431 -> 23367
+38104 [label="oxacycle"]
+24532 -> 38104
+36963 -> 38104
+27171 [label="organic heterobicyclic compound"]
+33672 -> 27171
+24532 -> 27171
+33595 [label="cyclic compound"]
+36357 -> 33595
+24431 [label="24431"]
+24532 [label="organic heterocyclic compound"]
+33285 -> 24532
+33832 -> 24532
+5686 -> 24532
+33672 [label="heterobicyclic compound"]
+33636 -> 33672
+5686 -> 33672
+36357 [label="polyatomic entity"]
+23367 -> 36357
+5686 [label="heterocyclic compound"]
+33595 -> 5686
+33636 [label="bicyclic compound"]
+33595 -> 33636
+}

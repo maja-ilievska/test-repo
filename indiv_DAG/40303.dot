@@ -1,0 +1,64 @@
+digraph tree{ 
+40303 [label="lovastatin" fillcolor=red style=filled]
+35748 -> 40303
+18946 -> 40303
+35748 [label="35748"]
+33308 -> 35748
+18059 -> 35748
+18946 [label="18946"]
+25000 -> 18946
+33308 [label="33308"]
+36586 -> 33308
+35701 -> 33308
+18059 [label="lipid"]
+50860 -> 18059
+25000 [label="lactone"]
+33308 -> 25000
+35701 -> 25000
+38104 -> 25000
+36586 [label="carbonyl compound"]
+36587 -> 36586
+36963 -> 36586
+35701 [label="ester"]
+50860 -> 35701
+50860 [label="organic molecular entity"]
+33582 -> 50860
+38104 [label="oxacycle"]
+24532 -> 38104
+36963 -> 38104
+36587 [label="organic oxo compound"]
+50860 -> 36587
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+24532 [label="organic heterocyclic compound"]
+33285 -> 24532
+33832 -> 24532
+5686 -> 24532
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33832 [label="organic cyclic compound"]
+50860 -> 33832
+5686 [label="heterocyclic compound"]
+33595 -> 5686
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+33579 [label="main group molecular entity"]
+23367 -> 33579
+33595 [label="cyclic compound"]
+36357 -> 33595
+23367 [label="molecular entity"]
+24431 -> 23367
+36357 [label="polyatomic entity"]
+23367 -> 36357
+24431 [label="24431"]
+}

@@ -1,0 +1,47 @@
+digraph tree{ 
+15345 [label="acetoacetyl-CoA" fillcolor=red style=filled]
+15489 -> 15345
+15489 [label="15489"]
+61903 -> 15489
+61903 [label="oxo-fatty acyl-CoA"]
+37554 -> 61903
+37554 [label="fatty acyl-CoA"]
+17984 -> 37554
+17984 [label="17984"]
+51277 -> 17984
+51277 [label="thioester"]
+36586 -> 51277
+26959 -> 51277
+36586 [label="carbonyl compound"]
+36587 -> 36586
+36963 -> 36586
+26959 [label="thiocarboxylic ester"]
+35701 -> 26959
+36587 [label="organic oxo compound"]
+50860 -> 36587
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+35701 [label="ester"]
+50860 -> 35701
+50860 [label="organic molecular entity"]
+33582 -> 50860
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

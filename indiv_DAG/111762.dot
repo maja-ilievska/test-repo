@@ -1,0 +1,68 @@
+digraph tree{ 
+111762 [label="111762" fillcolor=red style=filled]
+35500 -> 111762
+36683 -> 111762
+35500 [label="35500"]
+22720 -> 35500
+36683 [label="36683"]
+36684 -> 36683
+23117 -> 36683
+22720 [label="22720"]
+38101 -> 22720
+27171 -> 22720
+36684 [label="organohalogen compound"]
+33285 -> 36684
+37578 -> 36684
+23117 [label="chlorine molecular entity"]
+24471 -> 23117
+38101 [label="38101"]
+24532 -> 38101
+35352 -> 38101
+27171 [label="organic heterobicyclic compound"]
+33672 -> 27171
+24532 -> 27171
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+37578 [label="halide"]
+24471 -> 37578
+37577 -> 37578
+24471 [label="halogen molecular entity"]
+33675 -> 24471
+24532 [label="organic heterocyclic compound"]
+33285 -> 24532
+33832 -> 24532
+5686 -> 24532
+35352 [label="organonitrogen compound"]
+51143 -> 35352
+33285 -> 35352
+33672 [label="heterobicyclic compound"]
+33636 -> 33672
+5686 -> 33672
+50860 [label="organic molecular entity"]
+33582 -> 50860
+37577 [label="heteroatomic molecular entity"]
+36357 -> 37577
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33832 [label="organic cyclic compound"]
+50860 -> 33832
+5686 [label="heterocyclic compound"]
+33595 -> 5686
+51143 [label="nitrogen molecular entity"]
+33302 -> 51143
+33636 [label="bicyclic compound"]
+33595 -> 33636
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+36357 [label="polyatomic entity"]
+23367 -> 36357
+33579 [label="main group molecular entity"]
+23367 -> 33579
+33595 [label="cyclic compound"]
+36357 -> 33595
+33302 [label="pnictogen molecular entity"]
+33675 -> 33302
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

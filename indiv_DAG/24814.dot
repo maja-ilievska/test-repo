@@ -1,0 +1,87 @@
+digraph tree{ 
+24814 [label="24814" fillcolor=red style=filled]
+38467 -> 24814
+38467 [label="38467"]
+24828 -> 38467
+15734 -> 38467
+24828 [label="indoles"]
+22728 -> 24828
+15734 [label="15734"]
+30879 -> 15734
+22728 [label="benzopyrrole"]
+27171 -> 22728
+38101 -> 22728
+38180 -> 22728
+30879 [label="alcohol"]
+33822 -> 30879
+27171 [label="organic heterobicyclic compound"]
+33672 -> 27171
+24532 -> 27171
+38101 [label="38101"]
+24532 -> 38101
+35352 -> 38101
+38180 [label="38180"]
+33833 -> 38180
+33822 [label="organic hydroxy compound"]
+24651 -> 33822
+50860 -> 33822
+33672 [label="heterobicyclic compound"]
+33636 -> 33672
+5686 -> 33672
+24532 [label="organic heterocyclic compound"]
+33285 -> 24532
+33832 -> 24532
+5686 -> 24532
+35352 [label="organonitrogen compound"]
+51143 -> 35352
+33285 -> 35352
+33833 [label="heteroarene"]
+33659 -> 33833
+24532 -> 33833
+24651 [label="hydroxides"]
+25806 -> 24651
+33608 -> 24651
+37577 -> 24651
+50860 [label="organic molecular entity"]
+33582 -> 50860
+33636 [label="bicyclic compound"]
+33595 -> 33636
+5686 [label="heterocyclic compound"]
+33595 -> 5686
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+33832 [label="organic cyclic compound"]
+50860 -> 33832
+51143 [label="nitrogen molecular entity"]
+33302 -> 51143
+33659 [label="organic aromatic compound"]
+33832 -> 33659
+33655 -> 33659
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+33608 [label="hydrogen molecular entity"]
+33674 -> 33608
+37577 [label="heteroatomic molecular entity"]
+36357 -> 37577
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33595 [label="cyclic compound"]
+36357 -> 33595
+33302 [label="pnictogen molecular entity"]
+33675 -> 33302
+33655 [label="aromatic compound"]
+33595 -> 33655
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+33674 [label="33674"]
+33579 -> 33674
+36357 [label="polyatomic entity"]
+23367 -> 36357
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33579 [label="main group molecular entity"]
+23367 -> 33579
+23367 [label="molecular entity"]
+24431 -> 23367
+24431 [label="24431"]
+}

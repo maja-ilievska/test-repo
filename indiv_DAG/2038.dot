@@ -1,0 +1,85 @@
+digraph tree{ 
+2038 [label="2038" fillcolor=red style=filled]
+48009 -> 2038
+48009 [label="48009"]
+21731 -> 48009
+26588 -> 48009
+21731 [label="N-glycosyl compound"]
+35352 -> 21731
+63161 -> 21731
+63299 -> 21731
+26588 [label="1,3,5-triazines"]
+38102 -> 26588
+35352 [label="organonitrogen compound"]
+51143 -> 35352
+33285 -> 35352
+63161 [label="glycosyl compound"]
+36963 -> 63161
+63299 [label="carbohydrate derivative"]
+36963 -> 63299
+38102 [label="triazines"]
+25693 -> 38102
+38101 -> 38102
+50893 -> 38102
+51143 [label="nitrogen molecular entity"]
+33302 -> 51143
+33285 [label="heteroorganic entity"]
+50860 -> 33285
+36963 [label="organooxygen compound"]
+36962 -> 36963
+25806 -> 36963
+25693 [label="organic heteromonocyclic compound"]
+33670 -> 25693
+24532 -> 25693
+38101 [label="38101"]
+24532 -> 38101
+35352 -> 38101
+50893 [label="azaarene"]
+38101 -> 50893
+33833 -> 50893
+33302 [label="pnictogen molecular entity"]
+33675 -> 33302
+50860 [label="organic molecular entity"]
+33582 -> 50860
+36962 [label="organochalcogen compound"]
+33285 -> 36962
+33304 -> 36962
+25806 [label="oxygen molecular entity"]
+33304 -> 25806
+33670 [label="heteromonocyclic compound"]
+5686 -> 33670
+33661 -> 33670
+24532 [label="organic heterocyclic compound"]
+33285 -> 24532
+33832 -> 24532
+5686 -> 24532
+33833 [label="heteroarene"]
+33659 -> 33833
+24532 -> 33833
+33675 [label="p-block molecular entity"]
+33579 -> 33675
+33582 [label="carbon group molecular entity"]
+33675 -> 33582
+33304 [label="chalcogen molecular entity"]
+33675 -> 33304
+5686 [label="heterocyclic compound"]
+33595 -> 5686
+33661 [label="monocyclic compound"]
+33595 -> 33661
+33832 [label="organic cyclic compound"]
+50860 -> 33832
+33659 [label="organic aromatic compound"]
+33832 -> 33659
+33655 -> 33659
+33579 [label="main group molecular entity"]
+23367 -> 33579
+33595 [label="cyclic compound"]
+36357 -> 33595
+33655 [label="aromatic compound"]
+33595 -> 33655
+23367 [label="molecular entity"]
+24431 -> 23367
+36357 [label="polyatomic entity"]
+23367 -> 36357
+24431 [label="24431"]
+}
